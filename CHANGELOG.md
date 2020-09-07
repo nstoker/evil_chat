@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## Part 2
+
 - Created a component helper.
 - CSS and a basic login page created.
 - Added chat components.

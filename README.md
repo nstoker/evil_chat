@@ -8,4 +8,6 @@ The final code for [part 1](https://github.com/nstoker/evil_chat/tree/Part1).
 
 ## Part 2
 
-Following the [Evil Martians tutorial](https://evilmartians.com/chronicles/evil-front-part-2).
+Completed the [Evil Martians tutorial](https://evilmartians.com/chronicles/evil-front-part-2).
+
+The final code for [part 2](https://github.com/nstoker/evil_chat/tree/Part2).
