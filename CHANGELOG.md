@@ -9,8 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Created a component helper.
 - CSS and a basic login page created.
+- Added chat components.
 
-- Questions:
+- (Unanswered) Questions:
   - The .postcssrc.yml file hasn't been created. Also doesn't exist in the project repo.
     - "Let’s also take a second to enable postcss-nested plugin that will allow us to nest CSS classes. Type yarn add postcss-nested in the Terminal and add this line to the top of plugins section inside .postcssrc.yml: postcss-nested: {}."
 
