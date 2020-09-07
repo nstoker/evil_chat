@@ -9,3 +9,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial project creation.
 - Generated files using `rails new evil_chat --skip-coffee --skip-sprockets --skip-turbolinks --webpack --database=postgresql -T`.
+- Applied intial changes to use _the new way_
+- The `Webpacker Works!` dialog is working as per the tutorial.
