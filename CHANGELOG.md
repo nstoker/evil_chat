@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- Added an Action Cable communications pattern.
+- Added the send part of the messaging.
+
+About to hit `Message received`.
+
 ## Part 2
 
 - Created a component helper.
