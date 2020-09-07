@@ -14,3 +14,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add ESlint formatter and fix issues found to date.
 - Add stylelint to help sort css issues.
 - Add lefthook - a pre-commit git hook to manage linting and other niceness.
+- Add a more usual component and scrap the test code.
+- Completed part 1 of the tutorial.
