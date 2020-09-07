@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Created a component helper.
 - CSS and a basic login page created.
 - Added chat components.
+- Added a generator for new components.
 
 - (Unanswered) Questions:
   - The .postcssrc.yml file hasn't been created. Also doesn't exist in the project repo.
